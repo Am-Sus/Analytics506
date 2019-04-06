@@ -1,3 +1,4 @@
 # Analytics506
 #Dataset description
-#something
+#An analyses of the bike dataset as part of project for this class.
+#
